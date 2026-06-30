@@ -16,7 +16,7 @@ class TravelState(TypedDict):
 
     selected_flight: str
 
-    itinerary: str
+    itinerary: str #itinenary is used for showing/past history of previous or next page 
 
     validated: bool
 
